@@ -45,14 +45,16 @@ async function packToken(net) {
     .map(item => {
       return {
         ...item,
-        imgName: rename(item.img) + '.webp'
+        imgName: item.img ? rename(item.img) + '.webp' : ''
       }
     })
 
   file.mkdirSync(ASSETS)
 
   for (const item of listJson) {
-    file.copyFileSync(item.img, path.join(ASSETS, `${item.imgName}`))
+    if (item.img) {
+      file.copyFileSync(item.img, path.join(ASSETS, `${item.imgName}`))
+    }
     result.push({
       address: item.address,
       name: item.name,
@@ -96,17 +98,10 @@ async function getTokensInfo(folder) {
 async function tokenInfo(tokenPath, address) {
   const files = file.readdirSync(tokenPath)
   const infoFile = path.join(tokenPath, 'info.json')
-  const img = path.join(tokenPath, 'token.webp')
   const info = require(infoFile)
-  let extraInfo = null
-  let marketplaceInfo = null
-  if (files.includes('extra.json')) {
-    extraInfo = getExtraInfo(path.join(tokenPath, 'extra.json'))
-  }
-  if (files.includes('marketplace.json')) {
-    marketplaceInfo = getMarketplaceInfo(path.join(tokenPath, 'marketplace.json'))
-  }
-  info.img = img
+  const extraInfo = files.includes('extra.json') ? getExtraInfo(path.join(tokenPath, 'extra.json')) : null
+  const marketplaceInfo = files.includes('marketplace.json') ? getMarketplaceInfo(path.join(tokenPath, 'marketplace.json')) : null
+  info.img = files.includes('token.webp') ? path.join(tokenPath, 'token.webp') : ''
   info.createdAt = await getCreatedAtFromGit(tokenPath)
   info.address = address
   info.extra = extraInfo

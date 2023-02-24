@@ -7,7 +7,7 @@ The original list was created from Milos at [vnft-tools.com](https://vnft-tools.
 
 ## Requirements 
 1. Make sure the contract address is correct (main/test)
-2. Token image is required
+2. Token image (optional)
 3. Folder name must be the same as the contract address 
 4. Clear and simple description 
 5. Comply with directory & contents rules

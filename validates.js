@@ -1,6 +1,7 @@
 const path = require('path')
 const axios = require('axios')
 const file = require('file-system')
+const fs = require('fs')
 const sharp = require('sharp')
 const { getTokens } = require('./utils')
 const { NETS: NET_FOLDERS, NODES } = require('./const')
@@ -30,6 +31,8 @@ function checkName(name) {
 }
 
 async function checkImg(path) {
+  if(!fs.existsSync(path)) { return }
+
   const info = await sharp(path).metadata()
   if (info.width !== 256 || info.height !== 256) {
     throw new Error('image should be 256px * 256px')
@@ -45,8 +48,8 @@ async function validate(net, address) {
   try {
     checkFolderName(address)
     const files = file.readdirSync(tokenFolder)
-    if (!files.includes('info.json') || !files.includes('token.webp')) {
-      throw new Error('missing info.json or token.webp')
+    if (!files.includes('info.json')) {
+      throw new Error('missing info.json')
     }
     await checkAddressHasCode(net, address)
     checkInfo(info)
