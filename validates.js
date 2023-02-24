@@ -15,9 +15,6 @@ function checkInfo(info) {
   if (!checkName(info.name)) {
     throw new Error('name should be string')
   }
-  if (!checkTitle(info.title)) {
-    throw new Error('title should be string')
-  }
   if (!checkDesc(info.description)) {
     throw new Error('description should be string')
   }

@@ -18,14 +18,15 @@ Forking a repository allows you to create your token details and send a pull req
 ### Generate Token Information
 1. Create a directory in [main](tokens/main) /[test](tokens/test)/both and named the directory with **Contract address**.
 
-> Contract address start with **0x + 40 characters and must be lower case**, E.g., `0x0000000000000000000000000000456e65726779`.
+> Contract address start with **0x + 40 characters and must be lower case**, E.g., `0xb81E9C5f9644Dec9e5e3Cac86b4461A222072302`.
 
 ```
 ├── main 
 │   └── 0xb81E9C5f9644Dec9e5e3Cac86b4461A222072302 //Contract address
-│       ├── token.webp
 │       ├── info.json
-│       └── additional.json
+│       ├── token.webp
+│       └── extra.json
+│       └── marketplace.json
 ```
 
 
@@ -36,9 +37,7 @@ Forking a repository allows you to create your token details and send a pull req
 
 ```json
 {
-    "address": "0xb81E9C5f9644Dec9e5e3Cac86b4461A222072302",
-    "name": "vnt",
-    "title": "VeChain Node Token",
+    "name": "VeChain Node Token",
     "creator": "VeChain",
     "description": "X-Node"
 }

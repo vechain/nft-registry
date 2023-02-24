@@ -56,7 +56,6 @@ async function packToken(net) {
     result.push({
       address: item.address,
       name: item.name,
-      title: item.title,
       creator: item.creator,
       description: item.description,
       icon: item.imgName,
@@ -68,9 +67,7 @@ async function packToken(net) {
   console.table(listJson, [
     'address',
     'name',
-    'title',
     'creator',
-    'icon',
     'createdAt'
   ])
 
