@@ -67,7 +67,7 @@ Forking a repository allows you to create your token details and send a pull req
 ```
 [
   {
-    "title": "VeChainStats",
+    "name": "VeChainStats",
     "link": "https://manager.vechainstats.com/vnt-marketplace",
     "tokenLink": "https://vechainstats.com/nft/vechain-nodes/{{tokenId}}"
   }
