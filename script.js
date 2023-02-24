@@ -58,7 +58,7 @@ async function packToken(net) {
       name: item.name,
       creator: item.creator,
       description: item.description,
-      icon: item.imgName,
+      icon: `assets/${item.imgName}`,
       marketplaces: item.marketplaces,
       ...item.extra,
     })
