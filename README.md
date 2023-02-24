@@ -2,7 +2,7 @@
 
 The NFT registry is a repository of known NFT contracts with meta information that may not available on the chain.  
 Adding Tokens or suggesting changes can be done thru Pull Requests.  
-The original list was created from Milos at [vnft-tools.com](https://vnft-tools.com/). The repository was is structural based on the official [token registry](https://github.com/vechain/token-registry)
+The original list was created from Milos at [vnft-tools.com](https://vnft-tools.com/). The repository is structural based on the official [token registry](https://github.com/vechain/token-registry)
 
 
 ## Requirements 

@@ -15,9 +15,6 @@ function checkInfo(info) {
   if (!checkName(info.name)) {
     throw new Error('name should be string')
   }
-  if (!checkDesc(info.description)) {
-    throw new Error('description should be string')
-  }
 }
 
 async function checkAddressHasCode(net, address) {
@@ -30,14 +27,6 @@ async function checkAddressHasCode(net, address) {
 
 function checkName(name) {
   return !(name === null || name === undefined || name.length === 0)
-}
-
-function checkTitle(title) {
-  return !(title === null || title === undefined || title.length === 0)
-}
-
-function checkDesc(desc) {
-  return !(desc === null || desc === undefined || desc.length === 0)
 }
 
 async function checkImg(path) {

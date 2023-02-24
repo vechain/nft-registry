@@ -185,8 +185,8 @@ function getMarketplaceInfo(filePath) {
       return
     }
 
-    if (!marketplace.title) {
-      console.warn(yellowFont(`The marketplace at index ${index} title is invalid`))
+    if (!marketplace.name) {
+      console.warn(yellowFont(`The marketplace at index ${index} name is invalid`))
       return
     }
 
