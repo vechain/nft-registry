@@ -7,7 +7,7 @@ const { exec } = require('child_process')
 const BN = require('bignumber.js')
 const { getTokens, greenFont, yellowFont } = require('./utils')
 
-const { NETS: NET_FOLDERS, NODES } = require('./const')
+const { NETS: NET_FOLDERS } = require('./const')
 
 const DIST = path.join(__dirname, './dist')
 const ASSETS = path.join(DIST, 'assets')
@@ -32,7 +32,7 @@ async function packToken(net) {
   console.time(greenFont(`build-${net}-tokens`))
 
   const folder = path.join(__dirname, `./tokens/${NET_FOLDERS[net]}`)
-  const infos = await getTokensInfo(folder)
+  const infos = await getTokensInfo(folder, net)
   let result = []
   const listJson = infos
     .sort((a, b) => {
@@ -62,7 +62,8 @@ async function packToken(net) {
       description: item.description,
       icon: `assets/${item.imgName}`,
       marketplaces: item.marketplaces,
-      ...item.extra,
+      chainData: item.chainData,
+      ...item.extra
     })
   }
 
@@ -84,18 +85,18 @@ function rename(img) {
   return hashName.sync(img)
 }
 
-async function getTokensInfo(folder) {
+async function getTokensInfo(folder, net) {
   const tokens = getTokens(folder)
   const result = []
   for (let i = 0; i < tokens.length; i++) {
     const item = tokens[i]
-    result.push(await tokenInfo(path.join(folder, item), item.toLowerCase()))
+    result.push(await tokenInfo(path.join(folder, item), item.toLowerCase(), net))
   }
 
   return result
 }
 
-async function tokenInfo(tokenPath, address) {
+async function tokenInfo(tokenPath, address, net) {
   const files = file.readdirSync(tokenPath)
   const infoFile = path.join(tokenPath, 'info.json')
   const info = require(infoFile)
@@ -106,7 +107,8 @@ async function tokenInfo(tokenPath, address) {
   info.address = address
   info.extra = extraInfo
   info.marketplaces = marketplaceInfo
-
+  info.chainData = await getContractAttributesFromEnergy(net, address)
+  
   return info
 }
 
@@ -205,6 +207,28 @@ async function getCreatedAtFromGit(dirPath) {
       return resolve(new Date(stdout))
     })
   })
+}
+
+async function getContractAttributesFromEnergy(net, address) {
+
+  try {
+    const { data: [{ name }, { erc721 }, { erc1155 }] } = await axios.post(`https://api.vechain.energy/v1/call/${net}`, {
+      clauses: [
+        { to: address, signature: "name() returns (string name)" },
+        { to: address, signature: "supportsInterface(bytes4 0x80ac58cd) returns(bool erc721)" },
+        { to: address, signature: "supportsInterface(bytes4 0xd9b67a26) returns(bool erc1155)" },
+      ]
+    })
+
+    return {
+      name,
+      supportedInterfaces: {
+        erc721,
+        erc1155
+      }
+    }
+  }
+  catch (err) { }
 }
 
 module.exports = {
