@@ -1,0 +1,37 @@
+{
+  "name": "nft-registry",
+  "version": "1.0.0",
+  "description": "VeChain NFT registry",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm run clean && node index.js -b all",
+    "build:main": "npm run clean && node index.js -b main",
+    "build:test": "npm run clean && node index.js -b test",
+    "clean": "node index.js clean",
+    "lint": "node index.js -l all",
+    "lint:main": "node index.js -l main",
+    "lint:test": "node index.js -l test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vechain-energy/nft-registry.git"
+  },
+  "keywords": [
+    "vechain",
+    "token",
+    "transfer"
+  ],
+  "license": "LGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/vechain-energy/nft-registry/issues"
+  },
+  "homepage": "https://github.com/vechain-energy/nft-registry#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "bignumber.js": "^9.0.0",
+    "file-system": "2.2.2",
+    "hash-file": "3.0.0",
+    "sharp": "0.22.1",
+    "thor-devkit": "^1.3.3"
+  }
+}
