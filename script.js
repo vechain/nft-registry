@@ -234,14 +234,14 @@ async function getContractAttributesFromEnergy(net, address) {
         .filter(key => !['0', '__length__'].includes(key))
         .forEach(key => {
           if (key.slice(0, 3) === 'erc') {
-            attributes.supportedInterfaces[key] = attribute[key]
+            attributes.supportsInterface[key] = attribute[key]
           }
           else {
             attributes[key] = attribute[key]
           }
         })
       return attributes
-    }, { supportedInterfaces: {} })
+    }, { supportsInterface: {} })
 
     return attributes
 
