@@ -108,7 +108,7 @@ async function tokenInfo(tokenPath, address, net) {
   info.extra = extraInfo
   info.marketplaces = marketplaceInfo
   info.chainData = await getContractAttributesFromEnergy(net, address)
-  
+
   return info
 }
 
@@ -210,23 +210,41 @@ async function getCreatedAtFromGit(dirPath) {
 }
 
 async function getContractAttributesFromEnergy(net, address) {
-
   try {
-    const { data: [{ name }, { erc721 }, { erc1155 }] } = await axios.post(`https://api.vechain.energy/v1/call/${net}`, {
+    const { data } = await axios.post(`https://api.vechain.energy/v1/call/${net}`, {
       clauses: [
         { to: address, signature: "name() returns (string name)" },
+        { to: address, signature: "supportsInterface(bytes4 0x36372b07) returns(bool erc20)" },
+        { to: address, signature: "supportsInterface(bytes4 0x01ffc9a7) returns(bool erc165)" },
+        { to: address, signature: "supportsInterface(bytes4 0xa1c0ed36) returns(bool erc712)" },
         { to: address, signature: "supportsInterface(bytes4 0x80ac58cd) returns(bool erc721)" },
+        { to: address, signature: "supportsInterface(bytes4 0xe5cfc6d0) returns(bool erc777)" },
         { to: address, signature: "supportsInterface(bytes4 0xd9b67a26) returns(bool erc1155)" },
+        { to: address, signature: "supportsInterface(bytes4 0x2a55205a) returns(bool erc2981)" },
+        { to: address, signature: "supportsInterface(bytes4 0x1820a4b3) returns(bool erc1820)" },
+        { to: address, signature: "supportsInterface(bytes4 0x5b5e139f) returns(bool erc721Metadata)" },
+        { to: address, signature: "supportsInterface(bytes4 0x780e9d63) returns(bool erc721Enumerable)" },
+        { to: address, signature: "supportsInterface(bytes4 0x150b7a02) returns(bool erc721Receiver)" }
       ]
     })
 
-    return {
-      name,
-      supportedInterfaces: {
-        erc721,
-        erc1155
-      }
-    }
+    const attributes = data.reduce((attributes, attribute) => {
+      const keys = Object.keys(attribute)
+      keys
+        .filter(key => !['0', '__length__'].includes(key))
+        .forEach(key => {
+          if (key.slice(0, 3) === 'erc') {
+            attributes.supportedInterfaces[key] = attribute[key]
+          }
+          else {
+            attributes[key] = attribute[key]
+          }
+        })
+      return attributes
+    }, { supportedInterfaces: {} })
+
+    return attributes
+
   }
   catch (err) { }
 }
