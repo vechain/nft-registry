@@ -224,7 +224,9 @@ async function getContractAttributesFromEnergy(net, address) {
         { to: address, signature: "supportsInterface(bytes4 0x1820a4b3) returns(bool erc1820)" },
         { to: address, signature: "supportsInterface(bytes4 0x5b5e139f) returns(bool erc721Metadata)" },
         { to: address, signature: "supportsInterface(bytes4 0x780e9d63) returns(bool erc721Enumerable)" },
-        { to: address, signature: "supportsInterface(bytes4 0x150b7a02) returns(bool erc721Receiver)" }
+        { to: address, signature: "supportsInterface(bytes4 0x150b7a02) returns(bool erc721Receiver)" },
+        { to: address, signature: "supportsInterface(bytes4 0x8c65f84d) returns(bool ierc5643)" },
+        { to: address, signature: "supportsInterface(bytes4 0x2a55205a) returns(bool erc2981)" }
       ]
     })
 
