@@ -218,13 +218,14 @@ async function getContractAttributesFromEnergy(net, address) {
         { to: address, signature: "supportsInterface(bytes4 0x01ffc9a7) returns(bool erc165)" },
         { to: address, signature: "supportsInterface(bytes4 0xa1c0ed36) returns(bool erc712)" },
         { to: address, signature: "supportsInterface(bytes4 0x80ac58cd) returns(bool erc721)" },
-        { to: address, signature: "supportsInterface(bytes4 0xe5cfc6d0) returns(bool erc777)" },
-        { to: address, signature: "supportsInterface(bytes4 0xd9b67a26) returns(bool erc1155)" },
-        { to: address, signature: "supportsInterface(bytes4 0x2a55205a) returns(bool erc2981)" },
-        { to: address, signature: "supportsInterface(bytes4 0x1820a4b3) returns(bool erc1820)" },
         { to: address, signature: "supportsInterface(bytes4 0x5b5e139f) returns(bool erc721Metadata)" },
         { to: address, signature: "supportsInterface(bytes4 0x780e9d63) returns(bool erc721Enumerable)" },
-        { to: address, signature: "supportsInterface(bytes4 0x150b7a02) returns(bool erc721Receiver)" }
+        { to: address, signature: "supportsInterface(bytes4 0x150b7a02) returns(bool erc721Receiver)" },
+        { to: address, signature: "supportsInterface(bytes4 0xe5cfc6d0) returns(bool erc777)" },
+        { to: address, signature: "supportsInterface(bytes4 0xd9b67a26) returns(bool erc1155)" },
+        { to: address, signature: "supportsInterface(bytes4 0x1820a4b3) returns(bool erc1820)" },
+        { to: address, signature: "supportsInterface(bytes4 0x2a55205a) returns(bool erc2981)" },
+        { to: address, signature: "supportsInterface(bytes4 0x8c65f84d) returns(bool erc5643)" }
       ]
     })
 
