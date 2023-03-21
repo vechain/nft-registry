@@ -1,4 +1,4 @@
-# VeChain NFT registry
+# Vechain NFT registry
 
 The NFT registry is a repository of known NFT contracts with meta information that may not available on the chain.  
 Adding Tokens or suggesting changes can be done thru Pull Requests.  
@@ -37,8 +37,8 @@ Forking a repository allows you to create your token details and send a pull req
 
 ```json
 {
-    "name": "VeChain Node Token",
-    "creator": "VeChain",
+    "name": "Vechain Node Token",
+    "creator": "Vechain",
     "description": "X-Node"
 }
 ```
@@ -47,17 +47,17 @@ Forking a repository allows you to create your token details and send a pull req
 
 ```
 {
-  "website":"https://www.example.com/", 
-  "links":{
-      "discord":"https://discord.com/example",
-      "twitter":"https://twitter.com/example",
-      "telegram":"https://t.me/example",
-      "facebook":"https://www.facebook.com",
-      "medium":"https://medium.com/@example",
-      "github":"https://github.com/example",
-      "slack":"https://example.slack.com/"
-    },
-  "whitePaper":"https://www.example.com/whitepaper/"
+  "website": "https://www.example.com/", 
+  "links": {
+      "discord": "https://discord.com/example",
+      "twitter": "https://twitter.com/example",
+      "telegram": "https://t.me/example",
+      "facebook": "https://www.facebook.com",
+      "medium": "https://medium.com/@example",
+      "github": "https://github.com/example",
+      "slack": "https://example.slack.com/"
+  },
+  "whitePaper": "https://www.example.com/whitepaper/"
 }
 
 ```
