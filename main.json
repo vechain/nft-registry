@@ -1,0 +1,4557 @@
+[
+  {
+    "address": "0xb81e9c5f9644dec9e5e3cac86b4461a222072302",
+    "name": "Vechain Node Token",
+    "creator": "Vechain",
+    "description": "X- and Economy Nodes",
+    "icon": "assets/1faa8ad85803b1721a0d772ddfbbbcf599da226b.webp",
+    "marketplaces": [
+      {
+        "name": "VeChainStats",
+        "link": "https://manager.vechainstats.com/vnt-marketplace",
+        "tokenLink": "https://vechainstats.com/nft/vechain-nodes/{{tokenId}}"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": false,
+        "erc721Metadata": true,
+        "erc721Enumerable": false,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": false,
+        "erc5643": false
+      },
+      "name": "VeChain Node Token"
+    },
+    "website": "https://www.vechain.org/",
+    "whitePaper": "https://www.vechain.org/whitepaper/",
+    "links": [
+      {
+        "discord": "https://discord.gg/vechain"
+      },
+      {
+        "twitter": "https://twitter.com/vechainofficial"
+      },
+      {
+        "telegram": "https://t.me/vechain_official_english"
+      },
+      {
+        "medium": "https://medium.com/@vechainofficial"
+      },
+      {
+        "github": "https://github.com/vechain"
+      }
+    ]
+  },
+  {
+    "address": "0x7de983348e6b4bf215a08e4f21ddfe75a39ec9dc",
+    "name": "Kodama Klub",
+    "creator": "Kodama Klub",
+    "description": "",
+    "icon": "assets/d605223145b4e70fa4006383185d5c797d0977d8.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": false,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "KODAMA KLUB"
+    }
+  },
+  {
+    "address": "0xffcc1c4492c3b49825712e9a8909e4fcebfe6c02",
+    "name": "Mad Ⓥ-Apes  Alpha",
+    "creator": "Mad Ⓥ-Apes",
+    "description": "",
+    "icon": "assets/34184e8e6053a8588462bf72bfbb5ca02c733aff.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      },
+      {
+        "name": "World of V",
+        "link": "https://WorldOfV.art"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "Mad V-Apes NFT tokens"
+    }
+  },
+  {
+    "address": "0x7f2445324b9aaaede83a0bde18a1d55caea8c18f",
+    "name": "Guardians",
+    "creator": "VictuhVictuh",
+    "description": "",
+    "icon": "assets/6fdfbe54e090ab1c2beb35702d480bdbd590cc54.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "Guardians NFT tokens"
+    }
+  },
+  {
+    "address": "0x0504448a67074e2977723b5d19a3467c5dbabb82",
+    "name": "Smuzzies Phantom VeGhosts",
+    "creator": "VeGhosts",
+    "description": "",
+    "icon": "assets/3a8f0056d8b2e5cb1e9d10eaab0524a4a36ce9cb.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "Smuzzies Phantom VeGhosts NFT tokens"
+    }
+  },
+  {
+    "address": "0xdea490a03000f44d8df78991b19e90cf864906b4",
+    "name": "VVAR DOGS - Portal Davvgs",
+    "creator": "VVAR DOGS - Portal Davvgs",
+    "description": "",
+    "icon": "assets/aeeb8db7b3f97aaba27e913a5dc5d81d9071db29.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "VVar Dogs - Portal Davvgs"
+    }
+  },
+  {
+    "address": "0xc9c8964cf25d2c738190f74b8508cdfac8650b9d",
+    "name": "Bullys",
+    "creator": "Bullys",
+    "description": "The premiere No-Nerds Inc. project focusing more on art and collectability! Learn more at https://nonerdsinc.com.",
+    "icon": "assets/b179c1f46bcbbfaaeffa3bf898361503782dfffa.webp",
+    "marketplaces": [
+      {
+        "name": "BlackVeMarket",
+        "link": "https://blackvemarket.com"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": false,
+        "erc5643": false
+      },
+      "name": "Bullys"
+    }
+  },
+  {
+    "address": "0x6f0d98490d57a0b2b3f44342edb6a5bb30012e1c",
+    "name": "Undead VeKings",
+    "creator": "VeSea",
+    "description": "",
+    "icon": "assets/2cd4c053e930bb8407240ff34bddc00d5470d23e.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "Undead VeKing NFT tokens"
+    }
+  },
+  {
+    "address": "0x81fc139f676736c96cbcba40b5e5229baec02732",
+    "name": "Vlippos",
+    "creator": "Vlippos",
+    "description": "",
+    "icon": "assets/43daf998d51abe7b0febaa428fffc92593f2ec63.webp",
+    "marketplaces": [
+      {
+        "name": "BlackVeMarket",
+        "link": "https://blackvemarket.com"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": false,
+        "erc5643": false
+      },
+      "name": "Vlippos"
+    }
+  },
+  {
+    "address": "0x73f32592df5c0da73d56f34669d4ae28ae1afd9e",
+    "name": "Mad Ⓥ-Apes  Phoenix",
+    "creator": "Mad Ⓥ-Apes",
+    "description": "",
+    "icon": "assets/ee35986a751bdd9a16fa485f6c0cd3641fb141ee.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      },
+      {
+        "name": "World of V",
+        "link": "https://WorldOfV.art"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": false,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "Mad V-Apes Phoenix"
+    }
+  },
+  {
+    "address": "0xf92b2a2ff63ff09933c0ae797eff594ea3498c81",
+    "name": "Ukiyoe Yōkai",
+    "creator": "Airworthy",
+    "description": "",
+    "icon": "assets/12aa1d9cdf3a812d002544f6e591db5b2f497806.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      },
+      {
+        "name": "World of V",
+        "link": "https://WorldOfV.art"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": false,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "Ukiyoe Yokai"
+    }
+  },
+  {
+    "address": "0x77fe6041fa5beb0172c9ab6014b4d8d5099f0a23",
+    "name": "No Nerds Inc",
+    "creator": "No Nerds Inc",
+    "description": "These Anti-N.E.R.D tablets were created by No-Nerds Inc. to ease the side effects of nerditis. Learn more at https://nonerdsinc.com.",
+    "icon": "assets/e7d0cad3f70897012f2bd48b515883068c4a6556.webp",
+    "marketplaces": [
+      {
+        "name": "BlackVeMarket",
+        "link": "https://blackvemarket.com"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": false,
+        "erc5643": false
+      },
+      "name": "ANTI_NERD_TABLET"
+    }
+  },
+  {
+    "address": "0x1427d0d3233e39a9703eecdca251da771e9971a7",
+    "name": "Ratverse Genesis",
+    "creator": "Ratverse",
+    "description": "The GENESIS collection is the most important collection of the RatVerse.\n\nIt allows access to various whitelist benefits on different projects, also access to royalties via a DAO but also early access on our P2E.\n\n\"To get out, you must first get in!\" Rat Race. ",
+    "icon": "assets/a98bf940ea47ba91e16be534de2b8c4083144bc3.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      },
+      {
+        "name": "World of V",
+        "link": "https://WorldOfV.art"
+      },
+      {
+        "name": "BlackVeMarket",
+        "link": "https://blackvemarket.com"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": false,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "Ratverse Genesis"
+    }
+  },
+  {
+    "address": "0x78d4ba28c151501fa3f68927ea96304cab89b6f0",
+    "name": "VFoxes",
+    "creator": "NOЯDES",
+    "description": "VFox Alliance is a collection of 4,999 digital VFox characters — kind and brave shinobis who watch over the population of VFoxia and safeguard VFoxian peace and prosperity.",
+    "icon": "assets/cc6e3f0f985fa8f567f65df18c10c7dc6f769b3a.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      },
+      {
+        "name": "BlackVeMarket",
+        "link": "https://blackvemarket.com"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "VFoxes NFT tokens"
+    }
+  },
+  {
+    "address": "0x14c7d5357da8a8ed7a3983bc5ffd249fee63192d",
+    "name": "VeNerds",
+    "creator": "Virtual Flame Studios",
+    "description": "",
+    "icon": "assets/6a900cd3fa1693737cf110e443cdc00ce442f62e.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "VeNerds NFT tokens"
+    }
+  },
+  {
+    "address": "0x7957c7685879f45db2642d5705b72bc9ad2d0899",
+    "name": "VFox Geckos",
+    "creator": "VFox Alliance - Geckos",
+    "description": "",
+    "icon": "assets/1b73b74afc2729e448b0033c2e7691691d391c40.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      },
+      {
+        "name": "World of V",
+        "link": "https://WorldOfV.art"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "VFox Alliance - Geckos NFT tokens"
+    }
+  },
+  {
+    "address": "0x167f6cc1e67a615b51b5a2deaba6b9feca7069df",
+    "name": "Shredderz",
+    "creator": "Virtual Flame Studios",
+    "description": "",
+    "icon": "assets/bcfab7ad78174d0061aef8b2e7d2938185da6e9f.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      },
+      {
+        "name": "World of V",
+        "link": "https://WorldOfV.art"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": false,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "Shredderz"
+    }
+  },
+  {
+    "address": "0xda878be46f4a6ec013340fb985231ed67eb712d3",
+    "name": "Shamanic Oracles",
+    "creator": "Safe Haven (SHA)",
+    "description": "",
+    "icon": "assets/e413fef2511d55cfb9d76a68e118845da399a980.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": false,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "Shamanic Oracles"
+    }
+  },
+  {
+    "address": "0x1d971ac972f671c19d1be00e4fbf3118d3861851",
+    "name": "Forest Nation - Guardians",
+    "creator": "Forest Nation",
+    "description": "",
+    "icon": "assets/c2dc28991ed28d93e04a1f9ec24b6a0ebbe0e167.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      },
+      {
+        "name": "World of V",
+        "link": "https://WorldOfV.art"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "Forest Nation - Guardians NFT tokens"
+    }
+  },
+  {
+    "address": "0xd861be8e33ebd09764bfca242ca6a8c54dcf844a",
+    "name": "Mad V-Apes Elementals",
+    "creator": "Mad Ⓥ-Apes",
+    "description": "",
+    "icon": "assets/150b742979709aff3aad66aae975599858fb0e88.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": false,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "Mad V-Apes Elementals"
+    }
+  },
+  {
+    "address": "0x2571978545672fe7e4cced7409bdd0a57bc3c3d2",
+    "name": "Doppelganger",
+    "creator": "Paolo Di Medici",
+    "description": "",
+    "icon": "assets/adb1f977aa5354bf1afd2e53c4788e81a58334b5.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      },
+      {
+        "name": "World of V",
+        "link": "https://WorldOfV.art"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "Doppelganger NFT tokens"
+    }
+  },
+  {
+    "address": "0x7b927025cd0e645c28924e2726ecc7372615df46",
+    "name": "VVAR DOGS - Passes",
+    "creator": "VVAR DOGS - Passes",
+    "description": "",
+    "icon": "assets/9bcbc2931c763f9bb116cf50a61ed92a98c6fe45.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "VVar Dogs - Portal Passes"
+    }
+  },
+  {
+    "address": "0x2e53f17aa7dcbd00ec3eb80388f509faf84edafa",
+    "name": "Bomber Squad Coins",
+    "creator": "Bomber Squad Coins",
+    "description": "",
+    "icon": "assets/476e7801991006cbf97c5bd8b8935b81e6f275d8.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "Bomber Squad Coins NFT tokens"
+    }
+  },
+  {
+    "address": "0x7de7c8d9c4cd487b73df58b2a6b9302446f4e116",
+    "name": "Shamanic Companions",
+    "creator": "Safe Haven (SHA)",
+    "description": "",
+    "icon": "assets/200a4e00a6f5f13d38dc2c5a3f6979aa34f490ce.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      },
+      {
+        "name": "World of V",
+        "link": "https://WorldOfV.art"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": false,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "Shamanic Companion"
+    }
+  },
+  {
+    "address": "0x2f478c2e68e3385e632c625f0ee12d5a3a775e68",
+    "name": "Union Membership",
+    "creator": "No Nerds Inc",
+    "description": "Become a card carrying member of the No Nerds Inc community. Learn more at https://nonerdsinc.com.",
+    "icon": "assets/faf96039842bb7a77b3e963f62fb63266549c146.webp",
+    "marketplaces": [
+      {
+        "name": "BlackVeMarket",
+        "link": "https://blackvemarket.com"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": false,
+        "erc5643": false
+      },
+      "name": "UnionMembership"
+    }
+  },
+  {
+    "address": "0x01c10830feef88258e7a1ca998009ac19f7f087e",
+    "name": "VeSkullz",
+    "creator": "defeckz",
+    "description": "",
+    "icon": "assets/52d41c3b807140bba7e8fa91958cae21c16405f5.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "VeSkullz NFT tokens"
+    }
+  },
+  {
+    "address": "0x313d1fff2664a2df5a12e99c8c57e50efa715d73",
+    "name": "Metaversials",
+    "creator": "Pizzu",
+    "description": "Metaversials is a collection of randomly generated NFTs with varying traits in the real world and a unique alter-ego in the MEVEX",
+    "icon": "assets/947314ee907f1d256b189053dca8f4b95265e5d3.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      },
+      {
+        "name": "BlackVeMarket",
+        "link": "https://blackvemarket.com"
+      },
+      {
+        "name": "World of V",
+        "link": "https://WorldOfV.art"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "Metaversials NFT tokens"
+    }
+  },
+  {
+    "address": "0x055faf8495067864bcb8e8e3edadc506d98af5b3",
+    "name": "Metaversials Alter-egos",
+    "creator": "Pizzu",
+    "description": "",
+    "icon": "assets/2e1867d9029a49f03b4ae571842285b107219aa7.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      },
+      {
+        "name": "World of V",
+        "link": "https://WorldOfV.art"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "Metaversials Alter-egos NFT tokens"
+    }
+  },
+  {
+    "address": "0x3427e769ae440ae8e18b77f49cc2d6a39e57f047",
+    "name": "Frost Giant VeKings",
+    "creator": "VeSea",
+    "description": "",
+    "icon": "assets/592ffb42615ec3e58146c9ad9e87dc66a7f431da.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "Frost Giant VeKing NFT tokens"
+    }
+  },
+  {
+    "address": "0x09985f776ae2c175106d8febf5360f6b380db582",
+    "name": "Psycho Beasts Nemesis",
+    "creator": "Psycho Beasts Nemesis",
+    "description": "",
+    "icon": "assets/624f2b9f7e9bc6052898c21c3cfb55f5ec40acbc.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": false,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "NEMESIS NFT"
+    }
+  },
+  {
+    "address": "0x3759080b28604fd2851c215da71539bd8d5242ef",
+    "name": "Kickback Koalas",
+    "creator": "Kickback Koalas",
+    "description": "",
+    "icon": "assets/89f81625d82031fb96d625282ab88e53d6dbe251.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      },
+      {
+        "name": "World of V",
+        "link": "https://WorldOfV.art"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "Kickback Koalas NFT tokens"
+    }
+  },
+  {
+    "address": "0x850a2457975fd411f03a513c6f94cd7d378e7ec1",
+    "name": "Ukraine Relief",
+    "creator": "VeSea",
+    "description": "",
+    "icon": "assets/cb8670d1e4258d809377bd364b75aff348496bea.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "Ukraine Relief NFT tokens"
+    }
+  },
+  {
+    "address": "0x3b9521745ae47418c3c636ec1e76f135cdc961fc",
+    "name": "VeKongs 2.0",
+    "creator": "VeKongs",
+    "description": "",
+    "icon": "assets/b2d0f0cbb400f4019fa836260ba7f1087378561a.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": false,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "VEKONGS 2.0"
+    }
+  },
+  {
+    "address": "0x862b1cb1c75ca2e2529110a9d43564bd5cd83828",
+    "name": "Mino Mob Elixirs",
+    "creator": "Mino Mob",
+    "description": "",
+    "icon": "assets/efa4744e28a6d4d089ca4ccbe9f926f6227207b2.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "Mino Mob Elixir NFT tokens"
+    }
+  },
+  {
+    "address": "0x3fdf191152684b417f4a55264158c2eab97a81b3",
+    "name": "VFox Alliance - ORIGINS",
+    "creator": "NOЯDES",
+    "description": "VFox Alliance - ORIGINS is a collection of 3,999 digital VFox characters — fierce shinobis who lived during VFoxia's civil war, a period filled with dark secrets that need to be uncovered to save the future.",
+    "icon": "assets/64770d86234dc6c0f9c69d01866d34f1de55ac71.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      },
+      {
+        "name": "World of V",
+        "link": "https://WorldOfV.art"
+      },
+      {
+        "name": "BlackVeMarket",
+        "link": "https://blackvemarket.com"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "VFox Alliance - Origins NFT tokens"
+    }
+  },
+  {
+    "address": "0x875d36b9760ffe7ce366d3ff700c1ad98bdee990",
+    "name": "Phantom VeGhosts",
+    "creator": "VeGhosts",
+    "description": "",
+    "icon": "assets/8e3d51e05c24769e467553be4b853f3b03d50743.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "Phantom VeGhosts NFT tokens"
+    }
+  },
+  {
+    "address": "0x41a03b04725c20f3902c67ee7416e5df4266df45",
+    "name": "Bored Flamingo Flying Club Ladies",
+    "creator": "Bored Flamingo",
+    "description": "",
+    "icon": "assets/77bd2f43e3a420e43c9223363cdb15ef91e37281.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": false,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "BFFC LADIES"
+    }
+  },
+  {
+    "address": "0x88d7e38af5bdb6e65a045c79c9ce70ed06e6569b",
+    "name": "New Pigs Order",
+    "creator": "New Pigs Order",
+    "description": "New Pigs Order is a collection of 4000 conspiracy theorist pigs. Our goal is to bring longevity to the vechain ecosystem one oink at a time.",
+    "icon": "assets/fbf5eb9eca533f2aca7c68e3a99ad11834ec23ca.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      },
+      {
+        "name": "BlackVeMarket",
+        "link": "https://blackvemarket.com"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "New Pigs Order NFT tokens"
+    }
+  },
+  {
+    "address": "0x436f0a9b45e85eb2f749aa67d3393c649ef4dff2",
+    "name": "AstroVets",
+    "creator": "AstroVets",
+    "description": "",
+    "icon": "assets/e5358b97c6f4aec922a7b959610510ce7e323782.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "AstroVets NFT tokens"
+    }
+  },
+  {
+    "address": "0x8b55d319b6cae4b9fd0b4517f29cf4a100818e38",
+    "name": "Sacrificed VeKings",
+    "creator": "VeSea",
+    "description": "",
+    "icon": "assets/e764c0b3346d41e265199004945a5a9dd9ef6e20.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "Sacrificed VeKing NFT tokens"
+    }
+  },
+  {
+    "address": "0x46db08ca72b205a8f9e746a9e33a30d2f379216b",
+    "name": "Vumanoids",
+    "creator": "Virgo",
+    "description": "Vumanoids is a collection of humanoid PFPs. The first species to be introduced were the vElves.",
+    "icon": "assets/3c63ed51312ec0da026e62bcfb32d849d0596bbc.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      },
+      {
+        "name": "BlackVeMarket",
+        "link": "https://blackvemarket.com"
+      },
+      {
+        "name": "World of V",
+        "link": "https://WorldOfV.art"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "Vumanoids NFT tokens"
+    }
+  },
+  {
+    "address": "0x8c41b27504c2ea059312c55122d07149a3363c31",
+    "name": "VeKing Raiders",
+    "creator": "VeKing Raiders",
+    "description": "",
+    "icon": "assets/da1e3b29a20a0621fe1fa563f9c403f013703a50.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      },
+      {
+        "name": "World of V",
+        "link": "https://WorldOfV.art"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "VeKingsRaidersNFT"
+    }
+  },
+  {
+    "address": "0xe4be710b7553602a37126bd2bade15df18c957ff",
+    "name": "Zilly Zombies",
+    "creator": "Zilly Zombies",
+    "description": "",
+    "icon": "assets/da21b4725a49323444f883797834f36493c510b8.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      },
+      {
+        "name": "World of V",
+        "link": "https://WorldOfV.art"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "Zillionaire Zombies NFT tokens"
+    }
+  },
+  {
+    "address": "0xd6b93818ac38c936f51538e5e7832d7127b79622",
+    "name": "Metatun",
+    "creator": "Metatun",
+    "description": "",
+    "icon": "assets/4888734ec311816b4d143d344c27b54fb6101d6f.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "Metatun"
+    }
+  },
+  {
+    "address": "0x499be5332bfba0761650ae55b8d9c8443458f219",
+    "name": "VVarriors",
+    "creator": "VVarriors",
+    "description": "",
+    "icon": "assets/ed78b17b5d8b53c324dd95fe2b2fc86b5a669437.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "VVarriors NFT tokens"
+    }
+  },
+  {
+    "address": "0x8d831724414739846045e7bc07522058ff5f67d8",
+    "name": "Stardust Spectres",
+    "creator": "Stardust Spectres",
+    "description": "",
+    "icon": "assets/721257f7c6b6fbe2a4f1bf8b1fed64a7c7af1cd1.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "Stardust Spectres NFT tokens"
+    }
+  },
+  {
+    "address": "0x4acacfeaaaba51c488d429106184591856356b52",
+    "name": "New Pigs Order - Sows",
+    "creator": "New Pigs Order",
+    "description": "500 Female Pigs that managed to invade the Bunker by sacrificing Males to the Slaughterhouse! Sows is the 3rd collection under the New Pigs Order umbrella, but 1st to arise out of the new NPO Community initiative.",
+    "icon": "assets/60e26377c1390e8db61b0f183960b3eae19e1fb1.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      },
+      {
+        "name": "BlackVeMarket",
+        "link": "https://blackvemarket.com"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "New Pigs Order - Sows NFT tokens"
+    }
+  },
+  {
+    "address": "0x4786bfd13641507b4cd8b492c362c13bcf35ee71",
+    "name": "Ratverse X",
+    "creator": "Ratverse",
+    "description": "The X collection is the most important collection of the RatVerse after GENESIS. It allows access to different whitelist benefits on different projects, also access to a staking but also early access on our P2E. To get out, you must first get in! 'Rat Race'",
+    "icon": "assets/b729bf267c75091c74de7717bd56bdef96ef4d70.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      },
+      {
+        "name": "World of V",
+        "link": "https://WorldOfV.art"
+      },
+      {
+        "name": "BlackVeMarket",
+        "link": "https://blackvemarket.com"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": false,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "RATVERSE X"
+    }
+  },
+  {
+    "address": "0xbc0447e063f00a6d43d9bb3c60380a86498d6e64",
+    "name": "New Pigs Order - Slaughterhouse",
+    "creator": "New Pigs Order",
+    "description": "150 wild boars working to dominate the world, hand-in-hand with New Pigs Order",
+    "icon": "assets/ca6cb0a7fa9ecad72ddee9a008bf45c55ebc2247.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      },
+      {
+        "name": "BlackVeMarket",
+        "link": "https://blackvemarket.com"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": false,
+        "erc5643": false
+      },
+      "name": "New Pigs Order's Slaughterhouse"
+    }
+  },
+  {
+    "address": "0x47cce813c986b4d982a192bf7d6831f4beaccbc0",
+    "name": "Yeet Crusaders",
+    "creator": "yeetCrusader",
+    "description": "",
+    "icon": "assets/5f4beb1e0b832812266223de7df6e26db53d5507.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": false,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "YEET CRUSADER NFT"
+    }
+  },
+  {
+    "address": "0x4e4faebf70e7c01bcd39adbfaa247f081819919a",
+    "name": "VeeParrots",
+    "creator": "VeeParrots",
+    "description": "",
+    "icon": "assets/73c310be3ab09409b908e33ae9ace53c6b8c5e03.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "VeeParrots NFT tokens"
+    }
+  },
+  {
+    "address": "0x4a6b084243762dc219480edc5cfa0d88298bb707",
+    "name": "Vogies",
+    "creator": "Vogies",
+    "description": "Inspired by Vogue. Style. Fashion. \"Everyone has self worth, no matter the style. No matter how BOUJEE.\"",
+    "icon": "assets/fb418655d0c2e3dc18c496bb4f3956333235fc31.webp",
+    "marketplaces": [
+      {
+        "name": "BlackVeMarket",
+        "link": "https://blackvemarket.com"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": false,
+        "erc5643": false
+      },
+      "name": "Vogies"
+    }
+  },
+  {
+    "address": "0x55ce12bb1af513c44f2135ca0b52f1eec27203de",
+    "name": "Mad Ⓥ-Apes - Land Plots",
+    "creator": "Mad V Apes",
+    "description": "",
+    "icon": "assets/5952b7a6ae1f6ac622c3dfa43feb3fc7376a8891.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": false,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "MVA LAND PLOT"
+    }
+  },
+  {
+    "address": "0x4d4664aed6f645fb3defbbd668b2a4842c029187",
+    "name": "Goatz Club",
+    "creator": "Goatz Club",
+    "description": "",
+    "icon": "assets/b603f5944ff9be55e0512a818ae9b2442509b38a.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "Goatz Club NFT tokens"
+    }
+  },
+  {
+    "address": "0x588f2b0d4cbea48deb34c3d401cb995046edda81",
+    "name": "VeGhosts",
+    "creator": "Virtual Flame Studios",
+    "description": "",
+    "icon": "assets/07eedb3d191e8608ef96f5f00ee5ae4ccf5a6970.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "VeGhosts NFT tokens"
+    }
+  },
+  {
+    "address": "0x4eb966763294a77be85d1a1a56b7e15f59f45dbe",
+    "name": "Stardust Spectres - Spectres",
+    "creator": "Stardust Spectres - Spectres",
+    "description": "",
+    "icon": "assets/67f971ca7d5467a32c35120adeb84e220a33b386.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "Stardust Spectres - Spectres"
+    }
+  },
+  {
+    "address": "0xc35d04f8783f85ede2f329eed3c1e8b036223a06",
+    "name": "Galaxy Portraits",
+    "creator": "Ben",
+    "description": "",
+    "icon": "assets/86bb8b579fa3b4f82b9f67cdbb3ceaefe14bfa76.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "Galaxy Portraits NFT tokens"
+    }
+  },
+  {
+    "address": "0x90dc145867f10ec90d4f4432431896ca8f8be0e3",
+    "name": "Tamed Teens",
+    "creator": "DoS",
+    "description": "How to train a Dragon is childsplay. Meet DoS Tamed Teens ! Ready to go on adventures with their riders and collect all sorts of treasures.",
+    "icon": "assets/34b7a138988d470da8991d39573a86348db487a9.webp",
+    "marketplaces": [
+      {
+        "name": "BlackVeMarket",
+        "link": "https://blackvemarket.com"
+      },
+      {
+        "name": "World of V",
+        "link": "https://WorldOfV.art"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "TamedTeens"
+    }
+  },
+  {
+    "address": "0xc2de1fbb24d918a68923cfb24cc541aea7a49450",
+    "name": "VICTS",
+    "creator": "VeWarden",
+    "description": "",
+    "icon": "assets/9c4146f807349291bec64d0f4da60b45778c777b.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      },
+      {
+        "name": "World of V",
+        "link": "https://WorldOfV.art"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "Victs NFT tokens"
+    }
+  },
+  {
+    "address": "0x910607db19dce5651da4e68950705d6e49bc01a5",
+    "name": "Inka Empire",
+    "creator": "Llama Digital Studios",
+    "description": "",
+    "icon": "assets/e6c4faf67eb52137d4a6d9b021506b1f42e69093.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      },
+      {
+        "name": "BlackVeMarket",
+        "link": "https://blackvemarket.com"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "THE INKA EMPIRE"
+    }
+  },
+  {
+    "address": "0xe1cd98a883c88622cbbd39b23d95490cd540891b",
+    "name": "Doodle Thugs",
+    "creator": "Doodle Thugs",
+    "description": "",
+    "icon": "assets/c3eb5bf84efcde028c8b6bdf31c0a038f0190444.webp",
+    "marketplaces": [
+      {
+        "name": "BlackVeMarket",
+        "link": "https://blackvemarket.com"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "DOODLE THUGZ"
+    }
+  },
+  {
+    "address": "0x97f7c8d476183b69f18f810a18baf3f79994a267",
+    "name": "Vethugs",
+    "creator": "BVM",
+    "description": "VeThugs are the main Character of Thugs Paradise and the game will mostly resolve around them and their Problems into law enforcement.",
+    "icon": "assets/ce96907fa26161e2706d3ae893922db69c95a2bb.webp",
+    "marketplaces": [
+      {
+        "name": "BlackVeMarket",
+        "link": "https://blackvemarket.com"
+      },
+      {
+        "name": "World of V",
+        "link": "https://WorldOfV.art"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": false,
+        "erc5643": false
+      },
+      "name": "VeThugs"
+    }
+  },
+  {
+    "address": "0x6a4fc1661e9d4ca8814be52d155e2f6353b2782a",
+    "name": "DoS Elements",
+    "creator": "DoS",
+    "description": "Elements NFT. Used for Evolving, Enchanting and Breeding inside the Singapura Universe.",
+    "icon": "assets/5d0e4e294635bccd974b59b298a4931d47d70d16.webp",
+    "marketplaces": [
+      {
+        "name": "BlackVeMarket",
+        "link": "https://blackvemarket.com"
+      },
+      {
+        "name": "World of V",
+        "link": "https://WorldOfV.art"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "Elements"
+    }
+  },
+  {
+    "address": "0x9932690b32c4c0cd4d86a53eca948d33b1556ae7",
+    "name": "VeKongs",
+    "creator": "VeKongs",
+    "description": "",
+    "icon": "assets/9854db95ec0d092d9a16d808ab6c977e5a22f691.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      },
+      {
+        "name": "World of V",
+        "link": "https://WorldOfV.art"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "VeKongs NFT tokens"
+    }
+  },
+  {
+    "address": "0x0b6f1e2220e7498111db0e56d972f93dd035da32",
+    "name": "The Gods of Olympus",
+    "creator": "LLAMA Studios",
+    "description": "",
+    "icon": "assets/cb512ed8b29270acea842e3f9a8e487726bb3683.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "THE GODS OF OLYMPUS"
+    }
+  },
+  {
+    "address": "0xd6b546368087d82a230a561c777ca74776a1bb0c",
+    "name": "DoS Eggs",
+    "creator": "DoS",
+    "description": "Welcome to Singapura! World of the Dragon a land steeped in history, culture, intrigue and mystery. Join the Tribes mount your Dragon! and write your name in the history books.",
+    "icon": "assets/8d4c918de74cf05abf48767425015e4e32e13461.webp",
+    "marketplaces": [
+      {
+        "name": "BlackVeMarket",
+        "link": "https://blackvemarket.com"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": false,
+        "erc5643": false
+      },
+      "name": "DragonsOfSingapura"
+    }
+  },
+  {
+    "address": "0x148442103eeadfaf8cffd593db80dcdeadda71c9",
+    "name": "VeKings",
+    "creator": "VeSea",
+    "description": "",
+    "icon": "assets/e20aa361a73f8b9dc0ed0081dc9c220d182afdad.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      },
+      {
+        "name": "World of V",
+        "link": "https://WorldOfV.art"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "VeKing NFT tokens"
+    }
+  },
+  {
+    "address": "0xbdf2b45bd428bba31c46b8d8d1f50615ee0e1416",
+    "name": "3DAbles",
+    "creator": "3DAbles",
+    "description": "",
+    "icon": "assets/5241e5e4aa299f219bbbcea109e21d3f379098fb.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "3DAbles"
+    }
+  },
+  {
+    "address": "0xc22d8ca65bb9ee4a8b64406f3b0405cc1ebeec4e",
+    "name": "DoS Baby Dragons",
+    "creator": "DoS",
+    "description": "Dragons of Singapura 🐲 - Welcome to Singapura, land of the brave.🗺️",
+    "icon": "assets/845d878f207bb2fabb9554c0ac0b7653f52657dd.webp",
+    "marketplaces": [
+      {
+        "name": "BlackVeMarket",
+        "link": "https://blackvemarket.com"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": false,
+        "erc5643": false
+      },
+      "name": "BabyDragons"
+    }
+  },
+  {
+    "address": "0x9992501f1ef16d4b900e9d316cf468959b8f9bcd",
+    "name": "Veysarum",
+    "creator": "Data",
+    "description": "",
+    "icon": "assets/2a46b0d252c58677090873a7eecfa490c2bd2f07.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "Veysarum NFT tokens"
+    }
+  },
+  {
+    "address": "0x207577649f08c87de98e9981712fc9aece07df79",
+    "name": "UniⓋerse - The Expanse",
+    "creator": "Jason WiscoⓋitch",
+    "description": "",
+    "icon": "assets/cbbe6f186dbd6e18aa31536da761f0ae3c610537.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "Universe - The Expanse NFT tokens"
+    }
+  },
+  {
+    "address": "0xd56340abb721b7c89c6ca3835efc490dfd66f9ae",
+    "name": "Veshawties",
+    "creator": "BVM",
+    "description": "VeShawties The Second generation of playable characters in Thugs Paradise !",
+    "icon": "assets/854aead67fd5155af54adaa6495a10f1f1e2e9dc.webp",
+    "marketplaces": [
+      {
+        "name": "BlackVeMarket",
+        "link": "https://blackvemarket.com"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": false,
+        "erc5643": false
+      },
+      "name": "RatVerse"
+    }
+  },
+  {
+    "address": "0xf60b9aa0ab640c23b6dd6456a15d041a5f3a5f5e",
+    "name": "Forest Nation - Keepers",
+    "creator": "Forest Nation",
+    "description": "",
+    "icon": "assets/723016f0c48421c17c87a3be69b082f778a9bf0a.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      },
+      {
+        "name": "World of V",
+        "link": "https://WorldOfV.art"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "Forest Nation - Keepers NFT tokens"
+    }
+  },
+  {
+    "address": "0x9c872e8420ec38f404402bea8f8f86d5d2c17782",
+    "name": "Mad V-Apes Fusion G2",
+    "creator": "Mad V-Apes",
+    "description": "",
+    "icon": "assets/372aabbefa72f89b40f581855da037ba4ee2a090.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": false,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "FUSION G2"
+    }
+  },
+  {
+    "address": "0x319f08fd7c97fe0010b1f6171debc8dce3738a0e",
+    "name": "Smuzzies",
+    "creator": "Smuzzies",
+    "description": "",
+    "icon": "assets/2eb6f7d814b5d4627e614a76fa145d4ad037c841.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "Smuzzies NFT tokens"
+    }
+  },
+  {
+    "address": "0x9d3837c3188f58ed579f98cfe922dccef25d6e95",
+    "name": "Inka Empire - The Conquest",
+    "creator": "LLAMA Studios",
+    "description": "",
+    "icon": "assets/5a5b72d27d0e7dce15cb5a9be65fb594bd4c137c.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      },
+      {
+        "name": "BlackVeMarket",
+        "link": "https://blackvemarket.com"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": false,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "Inka Empire The Conquest"
+    }
+  },
+  {
+    "address": "0xf4d82631be350c37d92ee816c2bd4d5adf9e6493",
+    "name": "Mino Mob",
+    "creator": "Mino Mob",
+    "description": "Mino Mob is a collection of 4,444 3D Minotaur NFTs. Each Minotaur is unique and the collection is made up of over 100 different traits. Learn more at https://minomob.com/.",
+    "icon": "assets/b3191e9efbf66eea51fdf325b60f612633b36002.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      },
+      {
+        "name": "BlackVeMarket",
+        "link": "https://blackvemarket.com"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "Mino Mob NFT tokens"
+    }
+  },
+  {
+    "address": "0xa2c82ad2841c23a49fc2ba1a23927d1fe835c7f9",
+    "name": "Vales",
+    "creator": "Virgo",
+    "description": "",
+    "icon": "assets/a7ba244c3b0cc224e6d2929d662dbd9ba6b9c9e8.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      },
+      {
+        "name": "World of V",
+        "link": "https://WorldOfV.art"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": false,
+        "erc5643": false
+      },
+      "name": "Vales"
+    }
+  },
+  {
+    "address": "0xf19fe0f222e4f2a7587b817042fe58f4f330a009",
+    "name": "Psycho Beasts Prime",
+    "creator": "PsychoBeasts",
+    "description": "",
+    "icon": "assets/98f410d620d135c12a575227430ad0d2892e342c.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      },
+      {
+        "name": "World of V",
+        "link": "https://WorldOfV.art"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": false,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "Psycho Beasts"
+    }
+  },
+  {
+    "address": "0xbcfc59dcc2a0977ac1e9b465566ad071e5ec06aa",
+    "name": "VeNature",
+    "creator": "Ferriolsc",
+    "description": "",
+    "icon": "assets/d64d258fce5f3d29c805aff33e7c80be01dcb6a0.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "VeNature NFT tokens"
+    }
+  },
+  {
+    "address": "0x4523048daa77b61766add0bebf7f83e05f173d8f",
+    "name": "Bannerboi",
+    "creator": "Zima :'(",
+    "description": "Badass Banners for your badass PFP! Brought to you by Zima.",
+    "icon": "assets/4245139a94ef05277d1575328759785995e8c1d3.webp",
+    "marketplaces": [
+      {
+        "name": "BlackVeMarket",
+        "link": "https://blackvemarket.com"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": false,
+        "erc5643": false
+      },
+      "name": "Bannerboi"
+    }
+  },
+  {
+    "address": "0xa4bf5a32d0f1d1655eec3297023fd2136bd760a2",
+    "name": "Corgi Gang",
+    "creator": "VeCorgi",
+    "description": "",
+    "icon": "assets/e0c5a006d6fb9b4ff163dcacbef16bdeb8da8780.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      },
+      {
+        "name": "World of V",
+        "link": "https://WorldOfV.art"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": false,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "CORGI GANG"
+    }
+  },
+  {
+    "address": "0x56b57cc14e10aae2769a9fb660d0d0c0d41a6aca",
+    "name": "Funky Salamanders",
+    "creator": "Funky Salamanders",
+    "description": "",
+    "icon": "assets/673ee6b075b397067d84a7a3478a6f87b3148c13.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      },
+      {
+        "name": "World of V",
+        "link": "https://WorldOfV.art"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "Funky Salamanders NFT tokens"
+    }
+  },
+  {
+    "address": "0xa5e2ee50cb49ea4d0a3a520c15aa4cffaf5ea026",
+    "name": "Gangster Gorillaz",
+    "creator": "Gangster Gorillaz",
+    "description": "5,000 Gangster Gorilla NFTs not afraid to get their hands dirty and ready to take VeFam on a journey through BlockChain Land.",
+    "icon": "assets/6041f536651b7f4e9412cd5f94c09cd0a8d2c010.webp",
+    "marketplaces": [
+      {
+        "name": "BlackVeMarket",
+        "link": "https://blackvemarket.com"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "GangsterGorillaz"
+    }
+  },
+  {
+    "address": "0xe4538ddaaf68137a98448552c87f6910f1e3470d",
+    "name": "Shark Gang",
+    "creator": "Shark Gang",
+    "description": "",
+    "icon": "assets/79689c60cc5a5e0a5cc5c3d4fc3784995ea6040e.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      },
+      {
+        "name": "World of V",
+        "link": "https://WorldOfV.art"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": false,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "SHARK GANG NFT"
+    }
+  },
+  {
+    "address": "0xa723a21419181a9ddee6e3981d5854a05c9e90e1",
+    "name": "Bored Flamingo Flying Club",
+    "creator": "Bored Flamingo",
+    "description": "",
+    "icon": "assets/5f4efcdb6f47e443d44bf33e88282cf2400e9125.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      },
+      {
+        "name": "World of V",
+        "link": "https://WorldOfV.art"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": false,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "Bored Flamingo Flying Club"
+    }
+  },
+  {
+    "address": "0x64e8f785c27fb1f55f6ef38787853d3a1d0cde02",
+    "name": "VeAbstract",
+    "creator": "Arion Friddle",
+    "description": "",
+    "icon": "assets/0b1f8238cd9450e715b6a11217ba05354cdbb402.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "VeAbstract NFT tokens"
+    }
+  },
+  {
+    "address": "0xb12d1d640f56173ef3a47e5e1a1fde96ba96ce14",
+    "name": "Mad V-Apes Fusion",
+    "creator": "Mad Ⓥ-Apes",
+    "description": "",
+    "icon": "assets/7797e48328a873928efd77f9fdd6d8f96ed5f858.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "Mad V-Apes Fusion NFT tokens"
+    }
+  },
+  {
+    "address": "0x13e13a662bf2a085bbab01f9b1f5c3319f434ed2",
+    "name": "Kickback Koalas 3D",
+    "creator": "KBK",
+    "description": "",
+    "icon": "assets/089582e3d884513d66ce23e317ed060878cf6c88.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "Kickback Koalas 3D NFT tokens"
+    }
+  },
+  {
+    "address": "0xb14baed957b8e58db10ec5ef37927d83b3bbf297",
+    "name": "Ukiyoe Warriors",
+    "creator": "Airworthy",
+    "description": "",
+    "icon": "assets/51843016d227b0b4c51c09f92d5071642fac6a35.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      },
+      {
+        "name": "World of V",
+        "link": "https://WorldOfV.art"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": false,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "UKIYOE WARRIORS"
+    }
+  },
+  {
+    "address": "0x1f173256c08e557d0791bc6ef2ac1b1099f57ed5",
+    "name": "veLoot",
+    "creator": "veLoot",
+    "description": "",
+    "icon": "assets/3504f6f273ecee6a34a1669fb206f9706a3474aa.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "veLoot NFT tokens"
+    }
+  },
+  {
+    "address": "0xd4310196a56c5193811ae418b8729d82b34abdcc",
+    "name": "DoS Weapons",
+    "creator": "DoS",
+    "description": "Dragons of Singapura Weapons. Minted on VeChain for 0 VET. Redeemable in DoS Game at launch.",
+    "icon": "assets/5715bb4745744b385f4aba89a9c7b9f7310e6bbe.webp",
+    "marketplaces": [
+      {
+        "name": "BlackVeMarket",
+        "link": "https://blackvemarket.com"
+      },
+      {
+        "name": "World of V",
+        "link": "https://WorldOfV.art"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "DoSWeapons"
+    }
+  },
+  {
+    "address": "0x2fd3d1e1a3f1e072c89d67301a86a5ba850ccd4e",
+    "name": "Venonymous",
+    "creator": "Venonymous",
+    "description": "We are Venonymous. We are legion. Expect us.",
+    "icon": "assets/2089756fb142719c3f96343458392e154e3a5b37.webp",
+    "marketplaces": [
+      {
+        "name": "BlackVeMarket",
+        "link": "https://blackvemarket.com"
+      },
+      {
+        "name": "World of V",
+        "link": "https://WorldOfV.art"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": false,
+        "erc5643": false
+      },
+      "name": "Venonymous"
+    }
+  },
+  {
+    "address": "0xb3317c785176145603e0f6adfe32d8b2e0300633",
+    "name": "Goatz Club SuperMilk",
+    "creator": "Goatz Club - SuperMilk",
+    "description": "",
+    "icon": "assets/d47fdf7cbb26b04e64c33c089eef30d6b79622ab.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      },
+      {
+        "name": "World of V",
+        "link": "https://WorldOfV.art"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "Goatz Club - SuperMilk NFT tokens"
+    }
+  },
+  {
+    "address": "0x3dbba9ad9e33bd188eee8aa2d5c0e7b9894c6209",
+    "name": "Vemons",
+    "creator": "FingaBang",
+    "description": "Vemons is a collection of 358 unique creatures from hell.",
+    "icon": "assets/7f94ba0f7b29c54de900b765857722813add109e.webp",
+    "marketplaces": [
+      {
+        "name": "BlackVeMarket",
+        "link": "https://blackvemarket.com"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": false,
+        "erc5643": false
+      },
+      "name": "Vemons"
+    }
+  },
+  {
+    "address": "0xb59aea40b5d6946c0b593321318985d0d0bc66c0",
+    "name": "VeReapers",
+    "creator": "VeReapers",
+    "description": "",
+    "icon": "assets/c58bfd00c9fd87164a5837e263ec6294c9bcfca6.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": false,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "VEREAPERS"
+    }
+  },
+  {
+    "address": "0x5452c80cdfd31e175f62f6197e65adaf73ec84df",
+    "name": "VeNerds Airdrops",
+    "creator": "Virtual Flame Studios",
+    "description": "",
+    "icon": "assets/b62bdb82ac297a318eac5d40f7e9c59de1440c0d.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "VeNerds Airdrops NFT tokens"
+    }
+  },
+  {
+    "address": "0xd393c0dcccae49248862b462404b63a8546a888a",
+    "name": "Guardians - Team Leaders",
+    "creator": "VictuhVictuh",
+    "description": "",
+    "icon": "assets/ae2cd64993d0b514e77051276d6bcf2d57427d87.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "Guardians Airdrops NFT tokens"
+    }
+  },
+  {
+    "address": "0x60deca6baceb6258c8d718f9987acb17176f7f24",
+    "name": "Universe",
+    "creator": "Jason WiscoⓋitch",
+    "description": "",
+    "icon": "assets/9a772aab5dbd96fa359e5704dd638842f0f97678.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "Universe NFT tokens"
+    }
+  },
+  {
+    "address": "0x15e2f18feade6ccb990956050bf0c2990445cace",
+    "name": "VeGnomes",
+    "creator": "Jeff Perry",
+    "description": "",
+    "icon": "assets/e10adeeb826cd4c6bf93ad7f1d2e9777bb1a15c8.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      },
+      {
+        "name": "World of V",
+        "link": "https://WorldOfV.art"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "VeGnomes NFT tokens"
+    }
+  },
+  {
+    "address": "0xbb74d3d8305f6a6b49448746de7f1c9effaf0f82",
+    "name": "Wild Teens",
+    "creator": "DoS",
+    "description": "Did you choose to merge your babies? Meet your wild teen blessed by the Dragon Gods. You will be sure to collect a lot of coin.",
+    "icon": "assets/44f82fc5893bd2e4b5a59490522643a18e03ccf3.webp",
+    "marketplaces": [
+      {
+        "name": "BlackVeMarket",
+        "link": "https://blackvemarket.com"
+      },
+      {
+        "name": "World of V",
+        "link": "https://WorldOfV.art"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "WildTeens"
+    }
+  },
+  {
+    "address": "0x04edc606b0d60e843528422619c6d939be8a2fcf",
+    "name": "NFT Paper Project",
+    "creator": "Emmet",
+    "description": "",
+    "icon": "assets/9482ec2b0113f404282ba5f5ad1d9d9f5d1b428f.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "Alpha Collection"
+    }
+  },
+  {
+    "address": "0xb757fc0906f08714315d2abd4b4f077521a21e34",
+    "name": "VVAR DOGS",
+    "creator": "VVAR DOGS",
+    "description": "",
+    "icon": "assets/2bf3f4fedd1bb11afb5386cf04791133b6f39f5e.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "VVarDogs NFT tokens"
+    }
+  },
+  {
+    "address": "0xbcbf39013da096c97f0dc913f7ac1cdc42b9a721",
+    "name": "Universal Inventory",
+    "creator": "Universal Inventory",
+    "description": "",
+    "icon": "assets/c7a08b621ca4c7cf2e45aa51900063d2de48f72a.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "Universal Inventory NFT tokens"
+    }
+  },
+  {
+    "address": "0xcb99479e30136d86f9d8a8e9a79a4ecc75e36066",
+    "name": "VeCowboys",
+    "creator": "VeCowboys",
+    "description": "",
+    "icon": "assets/5af93aed6a331d4ff0136a203992a08728e916e0.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "VeCowboys NFT tokens"
+    }
+  },
+  {
+    "address": "0x6aa982158617d53c37f65d43eb9a156449adfff3",
+    "name": "Warbands",
+    "creator": "Warbands",
+    "description": "Kings of Kriptheim was a 'digital tabletop' game set within the Kriptheim Metaverse. Warband NFTs comprised this game's pieces.",
+    "icon": "assets/f90802f5ec4076dcef42eaab98d2909d0a5b2731.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      },
+      {
+        "name": "BlackVeMarket",
+        "link": "https://blackvemarket.com"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "Warbands NFT tokens"
+    }
+  },
+  {
+    "address": "0xc766ddd21f14862ef426f15bfb28573fdad8bc51",
+    "name": "Mino Mob Multiverse",
+    "creator": "Mino Mob Multiverse",
+    "description": "1,111 minotaurs from an alternate reality! Introducing the Mino Mob metaverse to the Multiverse, the Multiverse NFT Series is the second collection to come out of the Mino Mob project. Learn more at https://minomob.com/.",
+    "icon": "assets/65fff08ff0086ae6b6cfb02042f7f5e707b7cdae.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      },
+      {
+        "name": "BlackVeMarket",
+        "link": "https://blackvemarket.com"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "Mino Mob Multiverse NFT tokens"
+    }
+  },
+  {
+    "address": "0x428f6e43adc7649fe79f3a4341f0780cab059ffb",
+    "name": "Shreddiez",
+    "creator": "Shreddiez",
+    "description": "",
+    "icon": "assets/0ae8725ecdddb8be598553b9ba1f0aced577c937.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "Shreddies NFTs"
+    }
+  },
+  {
+    "address": "0x3473c5282057d7beda96c1ce0fe708e890764009",
+    "name": "ExoWorlds",
+    "creator": "ExoWorlds",
+    "description": "",
+    "icon": "assets/4368272715823062330bed6a93204e1890c9f375.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "PLANET"
+    }
+  },
+  {
+    "address": "0x8fd03f3a0f5dd1549f2416dccaf5acceada18292",
+    "name": "WoV Lottery Tickets",
+    "creator": "",
+    "description": "",
+    "icon": "assets/8d45c17c67396fa3a49572334358f821d43cf813.webp",
+    "marketplaces": [
+      {
+        "name": "World of V",
+        "link": "https://WorldOfV.art"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": false,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "WoV Lottery Tickets (January)"
+    }
+  },
+  {
+    "address": "0x5cc3fedf2f0956b2d080f0bf4b361fa5599edb04",
+    "name": "MVA Tickets",
+    "creator": "",
+    "description": "",
+    "icon": "assets/94d05282498353d33bb1a298b8198a36c877b1c9.webp",
+    "marketplaces": [
+      {
+        "name": "World of V",
+        "link": "https://WorldOfV.art"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": false,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "MVA Tickets "
+    }
+  },
+  {
+    "address": "0xc40bc08af312ca03592a54f96fb34c10bd10cb37",
+    "name": "SWEAT Point",
+    "creator": "",
+    "description": "",
+    "icon": "assets/7e446451abab6188e8f40a63291281804c0185df.webp",
+    "marketplaces": [
+      {
+        "name": "World of V",
+        "link": "https://WorldOfV.art"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": false,
+        "erc721Metadata": false,
+        "erc721Enumerable": false,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": false,
+        "erc5643": false
+      },
+      "name": ""
+    }
+  },
+  {
+    "address": "0x5d431bc82b67c070639e747c50a13cff15403f18",
+    "name": "RAW Point",
+    "creator": "",
+    "description": "",
+    "icon": "assets/55c4471d7e51688fa2a4f5d30fd3021fe6e9ff5d.webp",
+    "marketplaces": [
+      {
+        "name": "World of V",
+        "link": "https://WorldOfV.art"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": false,
+        "erc721Metadata": false,
+        "erc721Enumerable": false,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": false,
+        "erc5643": false
+      },
+      "name": "RAW Point"
+    }
+  },
+  {
+    "address": "0x607007c278a6c87f2f08d0846cb053cd80279ed5",
+    "name": "RAW Voucher",
+    "creator": "",
+    "description": "",
+    "icon": "assets/3bc2babea847d29d790320bc02760216b560897c.webp",
+    "marketplaces": [
+      {
+        "name": "World of V",
+        "link": "https://WorldOfV.art"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": false,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": ""
+    }
+  },
+  {
+    "address": "0x174871c02c042ae2e23181b9f3bec7975a544cda",
+    "name": "SWEAT Voucher",
+    "creator": "",
+    "description": "",
+    "icon": "assets/fc10fde4514d22908da8060ab2bb9c94071d746b.webp",
+    "marketplaces": [
+      {
+        "name": "World of V",
+        "link": "https://WorldOfV.art"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": false,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": ""
+    }
+  },
+  {
+    "address": "0x2a7bc6e39bcf51f5c55e7fc779e6b4da30be30c3",
+    "name": "VeHashes",
+    "creator": "",
+    "description": "",
+    "icon": "assets/60e6a242d1516e305e466fdf97ca26d27c2cc011.webp",
+    "marketplaces": [
+      {
+        "name": "World of V",
+        "link": "https://WorldOfV.art"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": false,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": false,
+        "erc5643": false
+      },
+      "name": "VeHashes"
+    }
+  },
+  {
+    "address": "0xd64ae647c44bc1d2edde7c65d9605a0024b86c78",
+    "name": "NonFungiBulls",
+    "creator": "",
+    "description": "",
+    "icon": "assets/6f2198f326b501de0c93fe59eaa89c913388039c.webp",
+    "marketplaces": [
+      {
+        "name": "World of V",
+        "link": "https://WorldOfV.art"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "NonFungiBulls"
+    }
+  },
+  {
+    "address": "0xb7392e3da793d8386f990e495f28865bcfb5f9d6",
+    "name": "VeChain Steering Committee",
+    "creator": "",
+    "description": "",
+    "icon": "assets/73c15ad2e71daa022a709258cb623932704e5b0d.webp",
+    "marketplaces": [
+      {
+        "name": "World of V",
+        "link": "https://WorldOfV.art"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": false,
+        "erc721Metadata": false,
+        "erc721Enumerable": false,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": false,
+        "erc5643": false
+      },
+      "name": ""
+    }
+  },
+  {
+    "address": "0xa435c77f27dc46b1e64cf25e3f8a380a1a615486",
+    "name": "User Profile",
+    "creator": "vechain.energy",
+    "description": "NFT representing a user's profile",
+    "marketplaces": [],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": false,
+        "erc5643": false
+      },
+      "name": "Identity"
+    },
+    "website": "https://profile.vechain.energy"
+  },
+  {
+    "address": "0x1f711f78685b4a5b0899d26aebd590163cfcb7eb",
+    "name": "Hacken Club Membership",
+    "creator": "hacken",
+    "description": "",
+    "marketplaces": [],
+    "website": "https://hacken.ai"
+  },
+  {
+    "address": "0x0000000000000000000000417574686f72697479",
+    "name": "VeChain Authority Node Token",
+    "creator": "VeChain",
+    "description": "Authority Node",
+    "icon": "assets/3c96cfba46f695c273da34f41eb62d9dc70dd4d8.webp",
+    "marketplaces": [],
+    "website": "https://www.vechain.org/",
+    "whitePaper": "https://www.vechain.org/whitepaper/",
+    "links": [
+      {
+        "discord": "https://discord.gg/vechain"
+      },
+      {
+        "twitter": "https://twitter.com/vechainofficial"
+      },
+      {
+        "telegram": "https://t.me/vechain_official_english"
+      },
+      {
+        "medium": "https://medium.com/@vechainofficial"
+      },
+      {
+        "github": "https://github.com/vechain"
+      }
+    ]
+  },
+  {
+    "address": "0xe7a88bd74e80da5e3cb67af65e4711b992123c44",
+    "name": "VeGem Rangers",
+    "creator": "",
+    "description": "",
+    "marketplaces": [],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": false,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "VeGem Rangers"
+    }
+  },
+  {
+    "address": "0xd7a8b0cebed38164c463e39f9f433daf963c5cfb",
+    "name": "Banana Crack",
+    "creator": "",
+    "description": "Will be used in a Burn event linked to Gangster Gorillaz",
+    "icon": "assets/4de22689fd05934c80f93220024a770164c72321.webp",
+    "marketplaces": [
+      {
+        "name": "BlackVeMarket",
+        "link": "https://blackvemarket.com"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "BananaCrack"
+    }
+  },
+  {
+    "address": "0xc0327e7e13df8b578ad57b8a1aed2a4e001addb3",
+    "name": "Concrete Jungles Plots",
+    "creator": "",
+    "description": "",
+    "icon": "assets/40e8039027b1718766cc53ab22f63e950b07ad70.webp",
+    "marketplaces": [
+      {
+        "name": "BlackVeMarket",
+        "link": "https://blackvemarket.com"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "GangsterGorillazPlots"
+    }
+  },
+  {
+    "address": "0x7ac767cc96a84ee89a32fa9dd9fe5fb406121f1d",
+    "name": "Doodle Piglets",
+    "creator": "",
+    "description": "The Doodle Piglets is a 250 NFT sized free MINT. To celebrate the listing of New Pigs Order on BlackVeMarket!",
+    "icon": "assets/110a0cc47e5d9ec62150ad39e2b4d272addd76b6.webp",
+    "marketplaces": [
+      {
+        "name": "BlackVeMarket",
+        "link": "https://blackvemarket.com"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "DOODLEPIGLETS"
+    }
+  },
+  {
+    "address": "0x998c9d999bd6af31089e4d3bc63a7d196f9a27ca",
+    "name": "Ganja Girls",
+    "creator": "",
+    "description": "Ganja Girls! Airdrop for venonymous holders! Artist: Silly Onion.",
+    "icon": "assets/4001221b9414a73d33e4e643e6f0c614d6d45b04.webp",
+    "marketplaces": [
+      {
+        "name": "BlackVeMarket",
+        "link": "https://blackvemarket.com"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "GanjaGirls"
+    }
+  },
+  {
+    "address": "0x6cb68e47080db4e3574f8a50df6717eeb32e0269",
+    "name": "Gorilla Petz",
+    "creator": "",
+    "description": "10000 crazy cats coming to the GG Bananaverse only available on BlackVeMarket. Raise your cats play with them and earn Vood.",
+    "marketplaces": [
+      {
+        "name": "BlackVeMarket",
+        "link": "https://blackvemarket.com"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "GangsterGorillazPetz"
+    }
+  },
+  {
+    "address": "0xd68ea9f36870aa4195cbe992eca0765d13a133fd",
+    "name": "Concrete Jungles Buildings",
+    "creator": "",
+    "description": "",
+    "icon": "assets/f697742a3939f460a2e18241133a79c9a84a7369.webp",
+    "marketplaces": [
+      {
+        "name": "BlackVeMarket",
+        "link": "https://blackvemarket.com"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "GangsterGorillazBuildings"
+    }
+  },
+  {
+    "address": "0xfc74715b3111909e63e0c0afe73ffe7892755917",
+    "name": "420VeFam VeBudz",
+    "creator": "",
+    "description": "Vebudz is a unique PFP collection, consisting of 5000 weed buds on the VeChain blockchain.",
+    "icon": "assets/a5790444c3e44dabcecc4b4428deb98dc304d08d.webp",
+    "marketplaces": [
+      {
+        "name": "BlackVeMarket",
+        "link": "https://blackvemarket.com"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "VeBudz"
+    }
+  },
+  {
+    "address": "0x3a07dec3477c7e1df69c671df95471eefcf86175",
+    "name": "Puraties",
+    "creator": "",
+    "description": "",
+    "icon": "assets/a5a3af302454ed0c41249b53daaabe64805efa3c.webp",
+    "marketplaces": [
+      {
+        "name": "BlackVeMarket",
+        "link": "https://blackvemarket.com"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "Tribes"
+    }
+  },
+  {
+    "address": "0xe0ab6916048ee208154bd76f1343d84b726fa62a",
+    "name": "vechain.energy Project",
+    "creator": "vechain.energy",
+    "description": "represents a project managed on vechain.energy",
+    "icon": "assets/c9a10921c76d103ff73a00802607d2a97901ad17.webp",
+    "marketplaces": [],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": false,
+        "erc5643": false
+      },
+      "name": "vechain.energy"
+    },
+    "website": "https://vechain.energy"
+  },
+  {
+    "address": "0x5e6265680087520dc022d75f4c45f9ccd712ba97",
+    "name": "World of V Phygital",
+    "creator": "",
+    "description": "",
+    "marketplaces": [
+      {
+        "name": "World of V",
+        "link": "https://www.worldofv.art/"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": false,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": false,
+        "erc5643": false
+      },
+      "name": "WoviesNFT"
+    }
+  },
+  {
+    "address": "0x47a2768ee043f1bd7cbc6f24c8f0854167d300e8",
+    "name": "Exoworlds Old (NFTs)",
+    "creator": "",
+    "description": "",
+    "marketplaces": [],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": false,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": false,
+        "erc5643": false
+      },
+      "name": "PLANET"
+    }
+  },
+  {
+    "address": "0x4167d527340afa546bb88d5d83afb6272e48b40e",
+    "name": "VeBounce",
+    "creator": "",
+    "description": "",
+    "marketplaces": [
+      {
+        "name": "World of V",
+        "link": "https://www.worldofv.art/"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": false,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "VeBounce Original"
+    }
+  },
+  {
+    "address": "0x79fc8e2c3f313d240bfeee9143aadf25f128ca50",
+    "name": "MVA The HiVe",
+    "creator": "",
+    "description": "",
+    "icon": "assets/f2c931ab1eae2ba3fe281d4c6508529553ee422e.webp",
+    "marketplaces": [
+      {
+        "name": "World of V",
+        "link": "https://WorldOfV.art"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": false,
+        "erc721Metadata": false,
+        "erc721Enumerable": false,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": false,
+        "erc5643": false
+      },
+      "name": ""
+    }
+  },
+  {
+    "address": "0xe045f9d4654d7ea0230aa7a36dd9d6a2d486f237",
+    "name": "Crossfit Mediolanvm",
+    "creator": "",
+    "description": "",
+    "icon": "assets/c517947e11ba700af94ece29a19b80d19f1d09ef.webp",
+    "marketplaces": [
+      {
+        "name": "World of V",
+        "link": "https://WorldOfV.art"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": false,
+        "erc721Metadata": false,
+        "erc721Enumerable": false,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": false,
+        "erc5643": false
+      },
+      "name": "Crossfit Mediolanvm (Awards Night 2023)"
+    }
+  },
+  {
+    "address": "0xb1e19aeaa5da5aba4b5591e548b5b6505c08909e",
+    "name": "vvardogs_ukidawgs",
+    "creator": "VVAR DOGS - Uki-Dawgs",
+    "description": "",
+    "icon": "assets/3455126796df714d590815b39cc455ceaebaf88b.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "Ukidawgs"
+    }
+  },
+  {
+    "address": "0x0d0f3e7ce89405f75b99f0bd6b498c00b6b937ce",
+    "name": "goatz_club_superheroes",
+    "creator": "Goatz Club - Supers",
+    "description": "",
+    "icon": "assets/96e3d2207bc26fc9f1eca27486807506c3bdf1a6.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "Goatz Club - Supers"
+    }
+  },
+  {
+    "address": "0x997c61cd02b5f2c8826ebcaf26080c650cabdda2",
+    "name": "honorary_vekings",
+    "creator": "Honorary VeKings",
+    "description": "",
+    "icon": "assets/22f96d28a7069b765b1f1f0de9f5b0992db47c67.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "Honorary VeKing NFT tokens"
+    }
+  },
+  {
+    "address": "0x8c810f79900d2b69f7043c7ff447f2eb3084606a",
+    "name": "nonfungible_bookclub",
+    "creator": "Non-Fungible BookClub",
+    "description": "",
+    "icon": "assets/f12fa8f4216bd30b7bbccbe7dcd97edd627a1afd.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "NonFungiBull Book Club NFT tokens"
+    }
+  },
+  {
+    "address": "0xb68f43cf91a2c9fa3f8ab369cb2fb23511eb7fb7",
+    "name": "Tradze Town",
+    "creator": "Tradze Town",
+    "description": "",
+    "icon": "assets/ae6ebe6e7e9f555e95eb97ba475460e95771eed6.webp",
+    "marketplaces": [
+      {
+        "name": "VeSea",
+        "link": "https://vesea.io"
+      },
+      {
+        "name": "World of V",
+        "link": "https://WorldOfV.art"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "Tradze Town NFT tokens"
+    }
+  },
+  {
+    "address": "0xfb3b2f8b4f8aae9e7a24ba0bcbb6a49d344f2ef3",
+    "name": "Hive POP 2023",
+    "creator": "",
+    "description": "",
+    "icon": "assets/f19a5f5366bd702c69f8f5d06cfa4eebb9bcbda6.webp",
+    "marketplaces": [
+      {
+        "name": "World of V",
+        "link": "https://WorldOfV.art"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "Hive POP 2023 NFT tokens"
+    }
+  },
+  {
+    "address": "0x2f0586faa4b51a678cf5d0f27ce414f3f6d08517",
+    "name": "Bored Eagle Fight Club",
+    "creator": "",
+    "description": "",
+    "icon": "assets/a48c8bdea00f1cff8159b0e1f895cf70c6060820.webp",
+    "marketplaces": [
+      {
+        "name": "World of V",
+        "link": "https://WorldOfV.art"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "Bored Eagle Fight Club"
+    }
+  },
+  {
+    "address": "0x06ff1e4b5e15d890e746dbefad3e2162a31c10b7",
+    "name": "XP Network Tezos Bridge",
+    "creator": "",
+    "description": "",
+    "icon": "assets/4a31a039426fb5cf21716476b40e37651d2b1bfe.webp",
+    "marketplaces": [
+      {
+        "name": "World of V",
+        "link": "https://WorldOfV.art"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "The Tunnel"
+    }
+  },
+  {
+    "address": "0x9aab6e4e017964ec7c0f092d431c314f0caf6b4b",
+    "name": "Genesis Special",
+    "creator": "",
+    "description": "",
+    "icon": "assets/eb18b6c9e09774d78b34c0f14731067cbe0f8641.webp",
+    "marketplaces": [
+      {
+        "name": "World of V",
+        "link": "https://WorldOfV.art"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": false,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": false,
+        "erc5643": false
+      },
+      "name": "WOVsSpecialCard"
+    }
+  },
+  {
+    "address": "0x6354b35c510cae41cd45b568087bf767756b3589",
+    "name": "VeRocket",
+    "creator": "",
+    "description": "",
+    "icon": "assets/f04b858d90bd853572f303cfb319f207fd112a4b.webp",
+    "marketplaces": [
+      {
+        "name": "World of V",
+        "link": "https://WorldOfV.art"
+      }
+    ],
+    "chainData": {
+      "supportsInterface": {
+        "erc20": false,
+        "erc165": true,
+        "erc712": false,
+        "erc721": true,
+        "erc721Metadata": true,
+        "erc721Enumerable": true,
+        "erc721Receiver": false,
+        "erc777": false,
+        "erc1155": false,
+        "erc1820": false,
+        "erc2981": true,
+        "erc5643": false
+      },
+      "name": "VeRocket NFT tokens"
+    }
+  }
+]
