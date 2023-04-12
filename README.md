@@ -83,7 +83,7 @@ After [Create a pull request](https://help.github.com/en/articles/creating-a-pul
 ## Get Approved token list
 
 1. Get token information
-   * MainNet: [https://vechain-energy.github.io/nft-registry/main.json](https://vechain-energy.github.io/nft-registry/main.json)
-   * TestNet: [https://vechain-energy.github.io/nft-registry/test.json](https://vechain-energy.github.io/nft-registry/test.json)
+   * MainNet: [https://vechain.github.io/nft-registry/main.json](https://vechain.github.io/nft-registry/main.json)
+   * TestNet: [https://vechain.github.io/nft-registry/test.json](https://vechain.github.io/nft-registry/test.json)
 2. Get token icon
-   * `https://vechain-energy.github.io/nft-registry/{item.icon}`
+   * `https://vechain.github.io/nft-registry/{item.icon}`
