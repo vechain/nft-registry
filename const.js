@@ -3,8 +3,8 @@ const NET_FOLDERS = {
   test: 'test'
 }
 const NODES = {
-  main: 'https://mainnet.veblocks.net',
-  test: 'https://testnet.veblocks.net'
+  main: 'https://mainnet.vechain.org',
+  test: 'https://testnet.vechain.org'
 }
 
 module.exports = {
